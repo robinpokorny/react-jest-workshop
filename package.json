@@ -25,7 +25,7 @@
   },
   "homepage": "https://github.com/kentcdodds/react-jest-workshop#readme",
   "dependencies": {
-    "react": "15.4.0",
+    "react": "16.8.2",
     "react-dom": "15.4.0"
   },
   "devDependencies": {
